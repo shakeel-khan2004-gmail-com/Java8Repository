@@ -4,8 +4,6 @@ public class BranchTest {
 		System.out.println("Test my branch");
 		System.out.println("conflict");
 		System.out.println("Hi I am here ");
-		System.out.println("Hi I am here 1");
-		System.out.println("Hi I am here2 ");
 	}
 
 }
