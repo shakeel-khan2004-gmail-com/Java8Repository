@@ -8,7 +8,7 @@ public class BranchTest {
 	
 	public void show()
 	{
-		System.out.println("show Branch ");
+		System.out.println("show Branch on main branch  ");
 	}
 	public void dev1()
 	{
