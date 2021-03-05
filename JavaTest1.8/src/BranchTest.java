@@ -8,7 +8,10 @@ public class BranchTest {
 	
 	public void show()
 	{
+		System.out.println("show Branch ");
+	}
+	public void dev1()
+	{
 		System.out.println("Dev1 Branch ");
 	}
-
 }
