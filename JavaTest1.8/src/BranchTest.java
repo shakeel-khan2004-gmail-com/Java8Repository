@@ -10,5 +10,10 @@ public class BranchTest {
 	{
 		System.out.println("Dev1 Branch ");
 	}
+	
+	public void dev2()
+	{
+		System.out.println("Dev2 Branch ");
+	}
 
 }
