@@ -5,5 +5,10 @@ public class BranchTest {
 		System.out.println("conflict");
 		System.out.println("Hi I am here ");
 	}
+	
+	public void show()
+	{
+		System.out.println("Dev1 Branch ");
+	}
 
 }
